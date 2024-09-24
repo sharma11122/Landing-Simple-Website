@@ -594,6 +594,13 @@ footer .other_info{
 }
 
 @media (max-width: 490px){
+        header{
+       
+        padding: 1rem;
+        height: auto;
+        margin-bottom:.3rem ;
+        
+    }
     .service1{
         width: 60%;
         height: auto;
