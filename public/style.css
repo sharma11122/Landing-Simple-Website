@@ -359,7 +359,7 @@ footer .other_info{
 
 @media (max-width: 1200px){
     .btn button{
-        width: 30%;
+        width: auto;
       }
 
 }
@@ -367,7 +367,7 @@ footer .other_info{
 @media (max-width: 992px) {
 
     .btn button{
-        width: 30%;
+        width: auto;
       }
       .service1,.service2,.service3{
         width: 25%;
